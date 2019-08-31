@@ -1,5 +1,9 @@
 
 
+array = []
+p array.length
+
+
 
 class CashRegister
 
@@ -46,5 +50,6 @@ class CashRegister
     end
 
 end
+
 
 
