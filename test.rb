@@ -1,0 +1,2 @@
+array = []
+p array.length
